@@ -1,4 +1,4 @@
-# 📦 彈窗工具：`showLdDialog` + `ActivityPopup`
+# 📦 整合彈窗 Widget：`showLdDialog` + `ActivityPopup`
 
 本專案提供一組自訂的 Flutter 彈窗顯示元件，適合用於活動公告、教學提示、多頁規則顯示等場景。
 
